@@ -1,1 +1,2 @@
 hi this is test-devops 
+this is commite fri=om remote to local rep

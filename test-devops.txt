@@ -1,2 +1,3 @@
 hi this is test-devops 
 this is commite fri=om remote to local rep with fetch oprion
+this is branch2 commite ......
